@@ -6,4 +6,4 @@
 
 def test(): 
 	""" this is test """
-	print 'No'
+	print 'OK'
